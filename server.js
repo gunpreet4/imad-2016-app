@@ -49,7 +49,7 @@ function createtemplate(data){
     </body>
 </html>
 `;
-return htmlTemplte;
+return htmlTemplate;
 }
 
 
